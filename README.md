@@ -5,4 +5,5 @@ It uses 📷 MediaPipe for hand tracking and 🧠 TensorFlow to train and predic
 A 📊 confusion matrix is used to evaluate model accuracy.
 
 ⚙️ Install Requirements
-pip install pandas numpy scikit-learn tensorflow opencv-python mediapipe joblib matplotlib seaborn pynput pyautogui
+
+"pip install pandas numpy scikit-learn tensorflow opencv-python mediapipe joblib matplotlib seaborn pynput pyautogui"
